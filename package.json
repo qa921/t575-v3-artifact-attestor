@@ -1,0 +1,1 @@
+{"name":"t575-v3-artifact-attestor","private":true,"dependencies":{"@actions/attest-build-provenance":"^2.0.0"}}

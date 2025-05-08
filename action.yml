@@ -1,0 +1,9 @@
+name: Artifact Attestor
+description: Attest edge artifacts with provenance
+runs:
+  using: node20
+  main: dist/index.js
+permissions:
+  contents: read
+  attestations: write
+  id-token: write

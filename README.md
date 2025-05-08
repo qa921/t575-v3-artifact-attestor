@@ -1,2 +1,2 @@
-# t575-v3-artifact-attestor
-T575-V3 seed: artifact signing Action candidate
+# Artifact Attestor
+Creates provenance attestations for gateway firmware. Pin by commit SHA. Uses `@actions/attest-build-provenance`; npm registry applicability requires verification. No advisory determination in this README.
